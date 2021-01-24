@@ -1,3 +1,3 @@
 #Kokoa Clone 2021
 
-THis is my first step for Kokoa clone.
+    This is my first step for kokoa clone. I hope it will work well.
